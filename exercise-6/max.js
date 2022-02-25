@@ -27,7 +27,7 @@ const fun1 = function (a, b, c) {
     }
   }
 };
-fun1(s1, s2, s3);
+// fun1(s1, s2, s3);
 // const fun1 = function (a, b, c) {
 //   if (a > b && b > c ) {
 //     console.log("Eng Katta son:" + s1);
